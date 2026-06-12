@@ -1,0 +1,25 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Logs
+Logs/
+*.log
+
+# React
+node_modules/
+dist/
+.env
+
+# Visual Studio Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive config
+appsettings.Development.json
